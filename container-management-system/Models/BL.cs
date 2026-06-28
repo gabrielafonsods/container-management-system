@@ -1,7 +1,6 @@
 ﻿namespace GerenciadorBLContainer.Models
 {
-    // Bruno Souza (CB3025411)
-    // Gabriela Wandenkolk (CB3026108)
+    // Gabriel Afonso dos Santos - CB3026167
     public class BL
     {
         public int ID { get; set; }

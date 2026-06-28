@@ -6,8 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
-// Bruno Souza (CB3025411)
-// Gabriela Wandenkolk (CB3026108)
+// Gabriel Afonso dos Santos - CB3026167
 public class ContainersController : Controller
 {
     private readonly GerenciadorBLContext _context;
